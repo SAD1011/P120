@@ -1,0 +1,30 @@
+#h5_2
+{
+    margin-left:150px;
+    font-size:50px;
+    background-color:blue;
+    border-radius:50px;
+    color:white;
+}
+
+#h5_1
+{
+    margin-left:250px;
+    font-size:50px;
+    background-color: blue;
+    border-radius:50px;
+    color:white;
+    margin-top:31px;
+}
+
+body
+{
+    background-color:darkslateblue
+}
+
+h4
+{
+    margin-top:130px;
+    font-size:50px;
+    color:white;
+}
